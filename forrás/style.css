@@ -46,11 +46,14 @@ li {
   width: 50px;
 }
 h1{
-  color: white;
+  text: white;
   text-align: center;
   size: 70px;
   padding: 30px;
 }
 h2{
+  color: white;
+}
+.bekezdes{
   color: white;
 }
