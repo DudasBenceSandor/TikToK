@@ -58,5 +58,8 @@ h2{
   font-size: 28px;
 }
 .dolt{
-  font-weight: bold;
+  font-style: italic;
+}
+.piros{
+  color: #ff0050;
 }
