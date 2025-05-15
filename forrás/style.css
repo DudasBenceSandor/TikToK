@@ -75,3 +75,8 @@ h2{
 .piros{
   color: #ff0050;
 }
+.app{
+  display: block;
+  margin: auto;
+  width: 50%;
+}
